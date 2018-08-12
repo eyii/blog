@@ -38,7 +38,7 @@ services:
     container_name: fpm
     image: dockerliweipei/blog:fpm
     volumes:
-      - ./:/var/www/html
+      - ./web:/var/www/html
     restart: always
     ports:
       - 9000:9000
@@ -52,7 +52,7 @@ services:
     restart: always
     volumes:
       - ./docker/nginx/tools/conf.d:/etc/nginx/conf.d
-      - ./:/var/www/html
+      - ./web:/var/www/html
     ports:
       - 80:80
     links:
