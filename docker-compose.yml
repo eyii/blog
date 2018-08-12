@@ -36,9 +36,9 @@ services:
     hostname: fpm
     privileged: true
     container_name: fpm
-    image: dockerliweipei/wordpress:fpm
+    image: dockerliweipei/blog:fpm
     volumes:
-      - ./docker/nginx/tools/web:/var/www/html
+      - ./:/var/www/html
     restart: always
     ports:
       - 9000:9000
