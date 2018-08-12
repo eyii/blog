@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="7730862b-0296-4124-8a53-6a5e07da42ad" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/docker/nginx/tools/conf.d/blog.conf" afterPath="$PROJECT_DIR$/docker/nginx/tools/conf.d/blog.conf" />
     </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +27,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="361">
-              <caret line="62" column="24" lean-forward="false" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="30" />
+              <caret line="62" column="24" lean-forward="true" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="30" />
               <folding>
                 <element signature="e#9#14#0" expanded="false" />
                 <element signature="e#27#361#0" expanded="false" />
@@ -90,11 +91,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="blog.conf" pinned="false" current-in-tab="false">
+      <file leaf-file-name="blog.conf" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docker/nginx/tools/conf.d/blog.conf">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
+            <state relative-caret-position="361">
+              <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
               <folding />
             </state>
           </provider>
@@ -311,12 +312,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1421027009380</updated>
-      <workItem from="1534029968721" duration="5665000" />
+      <workItem from="1534029968721" duration="5864000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="5665000" />
+    <option name="totallyTimeSpent" value="5864000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -891,14 +892,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/conf.d/blog.conf">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="18" column="31" lean-forward="true" selection-start-line="18" selection-start-column="31" selection-end-line="18" selection-end-column="31" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/docker/nginx/Dockerfile">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="76">
@@ -910,7 +903,7 @@
     <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
-          <caret line="62" column="24" lean-forward="false" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="30" />
+          <caret line="62" column="24" lean-forward="true" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="30" />
           <folding>
             <element signature="e#9#14#0" expanded="false" />
             <element signature="e#27#361#0" expanded="false" />
@@ -966,6 +959,14 @@
             <element signature="e#1260#1265#0" expanded="false" />
             <element signature="e#1274#1283#0" expanded="false" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker/nginx/tools/conf.d/blog.conf">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="19" column="5" lean-forward="true" selection-start-line="19" selection-start-column="5" selection-end-line="19" selection-end-column="5" />
+          <folding />
         </state>
       </provider>
     </entry>
