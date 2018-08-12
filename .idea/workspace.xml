@@ -2,22 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7730862b-0296-4124-8a53-6a5e07da42ad" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/.idea/php.xml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/docker-compose.yml" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/docker/db/bak.sql" />
-      <change beforePath="" afterPath="$PROJECT_DIR$/start.cmd" />
-      <change beforePath="$PROJECT_DIR$/.gitattributes" afterPath="$PROJECT_DIR$/.gitattributes" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change beforePath="$PROJECT_DIR$/.idea/blog.iml" afterPath="$PROJECT_DIR$/.idea/blog.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/app/config/app.php" afterPath="$PROJECT_DIR$/app/config/app.php" />
-      <change beforePath="$PROJECT_DIR$/app/config/database.php" afterPath="$PROJECT_DIR$/app/config/database.php" />
-      <change beforePath="$PROJECT_DIR$/app/config/local/database.php" afterPath="$PROJECT_DIR$/app/config/local/database.php" />
-      <change beforePath="$PROJECT_DIR$/artisan" afterPath="$PROJECT_DIR$/artisan" />
-      <change beforePath="$PROJECT_DIR$/bootstrap/start.php" afterPath="$PROJECT_DIR$/bootstrap/start.php" />
-      <change beforePath="$PROJECT_DIR$/readme.md" afterPath="$PROJECT_DIR$/readme.md" />
-      <change beforePath="$PROJECT_DIR$/server.php" afterPath="$PROJECT_DIR$/server.php" />
     </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -41,99 +26,27 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="380">
-              <caret line="62" column="17" lean-forward="true" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
+            <state relative-caret-position="361">
+              <caret line="43" column="17" lean-forward="true" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
               <folding>
-                <element signature="e#9#14#0" expanded="false" />
                 <element signature="e#80#82#0" expanded="false" />
                 <element signature="e#105#107#0" expanded="false" />
                 <element signature="e#250#254#0" expanded="false" />
                 <element signature="e#279#283#0" expanded="false" />
                 <element signature="e#298#305#0" expanded="false" />
                 <element signature="e#329#338#0" expanded="false" />
-                <element signature="e#355#361#0" expanded="false" />
-                <element signature="e#364#559#0" expanded="false" />
-                <element signature="e#391#405#0" expanded="false" />
                 <element signature="e#428#433#0" expanded="false" />
-                <element signature="e#447#459#0" expanded="false" />
-                <element signature="e#475#526#0" expanded="false" />
-                <element signature="e#533#559#0" expanded="false" />
-                <element signature="e#550#559#0" expanded="false" />
-                <element signature="e#562#708#0" expanded="false" />
-                <element signature="e#593#611#0" expanded="false" />
                 <element signature="e#634#643#0" expanded="false" />
-                <element signature="e#657#673#0" expanded="false" />
-                <element signature="e#680#708#0" expanded="false" />
                 <element signature="e#697#708#0" expanded="false" />
-                <element signature="e#711#957#0" expanded="false" />
-                <element signature="e#733#745#0" expanded="false" />
                 <element signature="e#760#763#0" expanded="false" />
-                <element signature="e#780#784#0" expanded="false" />
-                <element signature="e#805#808#0" expanded="false" />
-                <element signature="e#820#848#0" expanded="false" />
-                <element signature="e#853#908#0" expanded="false" />
-                <element signature="e#870#908#0" expanded="false" />
-                <element signature="e#922#928#0" expanded="false" />
-                <element signature="e#933#957#0" expanded="false" />
-                <element signature="e#948#957#0" expanded="false" />
-                <element signature="e#984#998#0" expanded="false" />
-                <element signature="e#1035#1039#0" expanded="false" />
-                <element signature="e#1060#1064#0" expanded="false" />
-                <element signature="e#1233#1238#0" expanded="false" />
+                <element signature="e#921#930#0" expanded="false" />
+                <element signature="e#957#971#0" expanded="false" />
+                <element signature="e#1008#1012#0" expanded="false" />
+                <element signature="e#1206#1211#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="origin.cmd" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/origin.cmd">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="gp.cmd" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/gp.cmd">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="161" lean-forward="false" selection-start-line="0" selection-start-column="155" selection-end-line="0" selection-end-column="161" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/zhuzhichao/ueditor/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/vendor/symfony/console/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/vendor/symfony/browser-kit/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -167,8 +80,8 @@
         <option value="$PROJECT_DIR$/artisan" />
         <option value="$PROJECT_DIR$/bootstrap/start.php" />
         <option value="$PROJECT_DIR$/docker/db/bak.sql" />
-        <option value="$PROJECT_DIR$/docker-compose.yml" />
         <option value="$PROJECT_DIR$/origin.cmd" />
+        <option value="$PROJECT_DIR$/docker-compose.yml" />
       </list>
     </option>
   </component>
@@ -248,55 +161,6 @@
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="laravel-blog" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="docker" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="docker" type="462c0819:PsiDirectoryNode" />
-              <item name="db" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="symfony" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="symfony" type="462c0819:PsiDirectoryNode" />
-              <item name="browser-kit" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="symfony" type="462c0819:PsiDirectoryNode" />
-              <item name="console" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="zhuzhichao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="zhuzhichao" type="462c0819:PsiDirectoryNode" />
-              <item name="ueditor" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
@@ -313,6 +177,9 @@
     <property name="aspect.path.notification.shown" value="true" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\all\php\laravel\laravel-blog\php" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="D:\all\php\laravel\laravel-blog\docker\db" />
       <recent name="D:\all\php\laravel\laravel-blog" />
@@ -370,12 +237,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1421027009380</updated>
-      <workItem from="1534029968721" duration="3071000" />
+      <workItem from="1534029968721" duration="3198000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3071000" />
+    <option name="totallyTimeSpent" value="3198000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -495,10 +362,11 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/js/cf.js">
+    <entry file="file://$PROJECT_DIR$/php/public/js/cf.js">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="36" column="7" lean-forward="false" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
+          <folding />
         </state>
       </provider>
     </entry>
@@ -892,7 +760,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/public/index.php">
+    <entry file="file://$PROJECT_DIR$/php/public/index.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -1049,51 +917,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="380">
-          <caret line="62" column="17" lean-forward="true" selection-start-line="62" selection-start-column="17" selection-end-line="62" selection-end-column="17" />
-          <folding>
-            <element signature="e#9#14#0" expanded="false" />
-            <element signature="e#80#82#0" expanded="false" />
-            <element signature="e#105#107#0" expanded="false" />
-            <element signature="e#250#254#0" expanded="false" />
-            <element signature="e#279#283#0" expanded="false" />
-            <element signature="e#298#305#0" expanded="false" />
-            <element signature="e#329#338#0" expanded="false" />
-            <element signature="e#355#361#0" expanded="false" />
-            <element signature="e#364#559#0" expanded="false" />
-            <element signature="e#391#405#0" expanded="false" />
-            <element signature="e#428#433#0" expanded="false" />
-            <element signature="e#447#459#0" expanded="false" />
-            <element signature="e#475#526#0" expanded="false" />
-            <element signature="e#533#559#0" expanded="false" />
-            <element signature="e#550#559#0" expanded="false" />
-            <element signature="e#562#708#0" expanded="false" />
-            <element signature="e#593#611#0" expanded="false" />
-            <element signature="e#634#643#0" expanded="false" />
-            <element signature="e#657#673#0" expanded="false" />
-            <element signature="e#680#708#0" expanded="false" />
-            <element signature="e#697#708#0" expanded="false" />
-            <element signature="e#711#957#0" expanded="false" />
-            <element signature="e#733#745#0" expanded="false" />
-            <element signature="e#760#763#0" expanded="false" />
-            <element signature="e#780#784#0" expanded="false" />
-            <element signature="e#805#808#0" expanded="false" />
-            <element signature="e#820#848#0" expanded="false" />
-            <element signature="e#853#908#0" expanded="false" />
-            <element signature="e#870#908#0" expanded="false" />
-            <element signature="e#922#928#0" expanded="false" />
-            <element signature="e#933#957#0" expanded="false" />
-            <element signature="e#948#957#0" expanded="false" />
-            <element signature="e#984#998#0" expanded="false" />
-            <element signature="e#1035#1039#0" expanded="false" />
-            <element signature="e#1060#1064#0" expanded="false" />
-            <element signature="e#1233#1238#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/origin.cmd">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -1131,6 +954,29 @@
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
           <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="361">
+          <caret line="43" column="17" lean-forward="true" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+          <folding>
+            <element signature="e#80#82#0" expanded="false" />
+            <element signature="e#105#107#0" expanded="false" />
+            <element signature="e#250#254#0" expanded="false" />
+            <element signature="e#279#283#0" expanded="false" />
+            <element signature="e#298#305#0" expanded="false" />
+            <element signature="e#329#338#0" expanded="false" />
+            <element signature="e#428#433#0" expanded="false" />
+            <element signature="e#634#643#0" expanded="false" />
+            <element signature="e#697#708#0" expanded="false" />
+            <element signature="e#760#763#0" expanded="false" />
+            <element signature="e#921#930#0" expanded="false" />
+            <element signature="e#957#971#0" expanded="false" />
+            <element signature="e#1008#1012#0" expanded="false" />
+            <element signature="e#1206#1211#0" expanded="false" />
+          </folding>
         </state>
       </provider>
     </entry>
