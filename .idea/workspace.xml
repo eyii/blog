@@ -3,6 +3,32 @@
   <component name="ChangeListManager">
     <list default="true" id="7730862b-0296-4124-8a53-6a5e07da42ad" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/autoload.php" afterPath="$PROJECT_DIR$/php/bootstrap/autoload.php" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/compiled.php" afterPath="$PROJECT_DIR$/php/bootstrap/compiled.php" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/css/bootstrap-responsive.css" afterPath="$PROJECT_DIR$/php/bootstrap/css/bootstrap-responsive.css" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/css/bootstrap-responsive.min.css" afterPath="$PROJECT_DIR$/php/bootstrap/css/bootstrap-responsive.min.css" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.css" afterPath="$PROJECT_DIR$/php/bootstrap/css/bootstrap-theme.css" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.css.map" afterPath="$PROJECT_DIR$/php/bootstrap/css/bootstrap-theme.css.map" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/css/bootstrap-theme.min.css" afterPath="$PROJECT_DIR$/php/bootstrap/css/bootstrap-theme.min.css" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/css/bootstrap.css" afterPath="$PROJECT_DIR$/php/bootstrap/css/bootstrap.css" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/css/bootstrap.css.map" afterPath="$PROJECT_DIR$/php/bootstrap/css/bootstrap.css.map" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/css/bootstrap.min.css" afterPath="$PROJECT_DIR$/php/bootstrap/css/bootstrap.min.css" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.eot" afterPath="$PROJECT_DIR$/php/bootstrap/fonts/glyphicons-halflings-regular.eot" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.svg" afterPath="$PROJECT_DIR$/php/bootstrap/fonts/glyphicons-halflings-regular.svg" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.ttf" afterPath="$PROJECT_DIR$/php/bootstrap/fonts/glyphicons-halflings-regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/fonts/glyphicons-halflings-regular.woff" afterPath="$PROJECT_DIR$/php/bootstrap/fonts/glyphicons-halflings-regular.woff" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/img/glyphicons-halflings-white.png" afterPath="$PROJECT_DIR$/php/bootstrap/img/glyphicons-halflings-white.png" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/img/glyphicons-halflings.png" afterPath="$PROJECT_DIR$/php/bootstrap/img/glyphicons-halflings.png" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/img/m1.jpg" afterPath="$PROJECT_DIR$/php/bootstrap/img/m1.jpg" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/img/m2.jpg" afterPath="$PROJECT_DIR$/php/bootstrap/img/m2.jpg" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/img/m3.jpg" afterPath="$PROJECT_DIR$/php/bootstrap/img/m3.jpg" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/img/m4.jpg" afterPath="$PROJECT_DIR$/php/bootstrap/img/m4.jpg" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/img/m5.jpg" afterPath="$PROJECT_DIR$/php/bootstrap/img/m5.jpg" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/js/bootstrap.js" afterPath="$PROJECT_DIR$/php/bootstrap/js/bootstrap.js" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/php/bootstrap/js/bootstrap.min.js" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/js/jquery.js" afterPath="$PROJECT_DIR$/php/bootstrap/js/jquery.js" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/paths.php" afterPath="$PROJECT_DIR$/php/bootstrap/paths.php" />
+      <change beforePath="$PROJECT_DIR$/bootstrap/start.php" afterPath="$PROJECT_DIR$/php/bootstrap/start.php" />
     </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,11 +52,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name="docker-compose.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docker-compose.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="361">
-              <caret line="43" column="17" lean-forward="false" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+            <state relative-caret-position="114">
+              <caret line="36" column="20" lean-forward="false" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
               <folding>
                 <element signature="e#80#82#0" expanded="false" />
                 <element signature="e#105#107#0" expanded="false" />
@@ -47,16 +73,6 @@
                 <element signature="e#1008#1012#0" expanded="false" />
                 <element signature="e#1206#1211#0" expanded="false" />
               </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/php/vendor/zhuzhichao/ueditor/.gitignore">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
             </state>
           </provider>
         </entry>
@@ -139,7 +155,7 @@
       <path value="$PROJECT_DIR$/vendor/symfony/css-selector" />
     </include_path>
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
+  <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1920" />
     <option name="height" value="1040" />
   </component>
@@ -175,27 +191,6 @@
               <item name="blog" type="b2602c69:ProjectViewProjectNode" />
               <item name="laravel-blog" type="462c0819:PsiDirectoryNode" />
               <item name="php" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="php" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="php" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="zhuzhichao" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="blog" type="b2602c69:ProjectViewProjectNode" />
-              <item name="laravel-blog" type="462c0819:PsiDirectoryNode" />
-              <item name="php" type="462c0819:PsiDirectoryNode" />
-              <item name="vendor" type="462c0819:PsiDirectoryNode" />
-              <item name="zhuzhichao" type="462c0819:PsiDirectoryNode" />
-              <item name="ueditor" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -273,15 +268,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1421027009380</updated>
-      <workItem from="1534029968721" duration="3257000" />
+      <workItem from="1534029968721" duration="3298000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3257000" />
+    <option name="totallyTimeSpent" value="3298000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
       <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -292,10 +287,10 @@
       <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32900432" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1945629" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.1945629" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Docker" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -715,7 +710,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/paths.php">
+    <entry file="file://$PROJECT_DIR$/php/bootstrap/paths.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
           <caret line="17" column="6" lean-forward="true" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
@@ -817,7 +812,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/autoload.php">
+    <entry file="file://$PROJECT_DIR$/php/bootstrap/autoload.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -833,7 +828,7 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/bootstrap/start.php">
+    <entry file="file://$PROJECT_DIR$/php/bootstrap/start.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="361">
           <caret line="23" column="0" lean-forward="false" selection-start-line="23" selection-start-column="0" selection-end-line="23" selection-end-column="0" />
@@ -979,10 +974,18 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/php/vendor/zhuzhichao/ueditor/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docker-compose.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="361">
-          <caret line="43" column="17" lean-forward="false" selection-start-line="43" selection-start-column="17" selection-end-line="43" selection-end-column="17" />
+        <state relative-caret-position="114">
+          <caret line="36" column="20" lean-forward="false" selection-start-line="36" selection-start-column="20" selection-end-line="36" selection-end-column="20" />
           <folding>
             <element signature="e#80#82#0" expanded="false" />
             <element signature="e#105#107#0" expanded="false" />
@@ -999,14 +1002,6 @@
             <element signature="e#1008#1012#0" expanded="false" />
             <element signature="e#1206#1211#0" expanded="false" />
           </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/php/vendor/zhuzhichao/ueditor/.gitignore">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
