@@ -30,10 +30,4 @@
 
 数据库采用mysql，数据库文件lv.sql,已提供，数据配置看看config里面的db节点；建议使用php artisan serve启动服务来进行浏览测试！
 
-### 感谢Laravel
 
-**php是最好的开发语言，laravel是最好的开发框架，有没有！真心不黑**
-
-### License
-
-The   is open-sourced software licensed under the [MIT license](http://opensource.org/licenses/MIT)

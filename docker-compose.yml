@@ -1,0 +1,66 @@
+version: '3.3'
+services:
+  db:
+      build:
+        ./docker/db
+      hostname: db
+      container_name: db
+      image: dockerliweipei/blog:db
+      volumes:
+        - ./docker/db/mysql:/var/lib/mysql
+      environment:
+        MYSQL_ROOT_PASSWORD: root
+        MYSQL_DATABASE: test
+        LANG: C.UTF-8
+      ports:
+        - 3306:3306
+      restart : always
+  redis:
+      build:
+       ./docker/redis
+      container_name: redis
+      image: redis:latest
+      command: redis-server --requirepass "redis" --appendonly yes
+      ports:
+        - 6379:6379
+  memcached:
+      build:
+       ./docker/memcached
+      container_name: memcached
+      image: memcached:latest
+      ports:
+        - 11211:11211
+  fpm:
+    build:
+      ./docker/fpm
+    hostname: fpm
+    privileged: true
+    container_name: fpm
+    image: dockerliweipei/wordpress:fpm
+    volumes:
+      - ./docker/nginx/tools/web:/var/www/html
+    restart: always
+    ports:
+      - 9000:9000
+  nginx:
+    build:
+      ./docker/nginx
+    hostname: nginx
+    privileged: true
+    container_name: blog
+    image: dockerliweipei/blog:nginx
+    restart: always
+    volumes:
+      - ./docker/nginx/tools/conf.d:/etc/nginx/conf.d
+      - ./:/var/www/html
+    ports:
+      - 80:80
+    links:
+      - fpm
+      - db
+      - redis
+      - memcached
+    working_dir: /var/www/html
+    command: php artisan serve --host=0.0.0.0 --port=80
+
+
