@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7730862b-0296-4124-8a53-6a5e07da42ad" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/blog.iml" afterPath="$PROJECT_DIR$/.idea/blog.iml" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="" afterPath="$PROJECT_DIR$/origin.sh" />
+      <change beforePath="$PROJECT_DIR$/gp.sh" afterPath="$PROJECT_DIR$/gp.sh" />
     </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -26,7 +26,38 @@
     <favorites_list name="blog" />
   </component>
   <component name="FileEditorManager">
-    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="gp.cmd" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/gp.cmd">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="161" lean-forward="false" selection-start-line="0" selection-start-column="155" selection-end-line="0" selection-end-column="161" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="origin.sh" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/origin.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="76">
+              <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="gp.sh" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/gp.sh">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="19">
+              <caret line="1" column="73" lean-forward="false" selection-start-line="1" selection-start-column="73" selection-end-line="1" selection-end-column="73" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
   </component>
   <component name="FindManager">
     <FindUsagesManager>
@@ -57,6 +88,7 @@
         <option value="$PROJECT_DIR$/docker/db/bak.sql" />
         <option value="$PROJECT_DIR$/origin.cmd" />
         <option value="$PROJECT_DIR$/docker-compose.yml" />
+        <option value="$PROJECT_DIR$/gp.sh" />
       </list>
     </option>
   </component>
@@ -162,8 +194,8 @@
       <recent name="D:\all\php\laravel\laravel-blog\php" />
     </key>
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="D:\all\php\laravel\laravel-blog\docker\db" />
       <recent name="D:\all\php\laravel\laravel-blog" />
+      <recent name="D:\all\php\laravel\laravel-blog\docker\db" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -218,12 +250,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1421027009380</updated>
-      <workItem from="1534029968721" duration="3651000" />
+      <workItem from="1534029968721" duration="4343000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="3651000" />
+    <option name="totallyTimeSpent" value="4343000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -308,21 +340,6 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/app/views/navbar.blade.php">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="18" column="56" lean-forward="false" selection-start-line="18" selection-start-column="56" selection-end-line="18" selection-end-column="56" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/web/public/js/cf.js">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="36" column="7" lean-forward="false" selection-start-line="36" selection-start-column="7" selection-end-line="36" selection-end-column="7" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/app/views/cate/edit.blade.php">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -767,58 +784,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="76">
-          <caret line="25" column="2" lean-forward="true" selection-start-line="25" selection-start-column="2" selection-end-line="25" selection-end-column="2" />
-          <folding>
-            <element signature="e#9#14#0" expanded="false" />
-            <element signature="e#27#361#0" expanded="false" />
-            <element signature="e#52#63#0" expanded="false" />
-            <element signature="e#80#82#0" expanded="false" />
-            <element signature="e#105#107#0" expanded="false" />
-            <element signature="e#121#143#0" expanded="false" />
-            <element signature="e#150#201#0" expanded="false" />
-            <element signature="e#169#201#0" expanded="false" />
-            <element signature="e#208#305#0" expanded="false" />
-            <element signature="e#250#254#0" expanded="false" />
-            <element signature="e#279#283#0" expanded="false" />
-            <element signature="e#298#305#0" expanded="false" />
-            <element signature="e#312#338#0" expanded="false" />
-            <element signature="e#329#338#0" expanded="false" />
-            <element signature="e#355#361#0" expanded="false" />
-            <element signature="e#364#559#0" expanded="false" />
-            <element signature="e#391#405#0" expanded="false" />
-            <element signature="e#428#433#0" expanded="false" />
-            <element signature="e#447#459#0" expanded="false" />
-            <element signature="e#475#526#0" expanded="false" />
-            <element signature="e#533#559#0" expanded="false" />
-            <element signature="e#550#559#0" expanded="false" />
-            <element signature="e#593#611#0" expanded="false" />
-            <element signature="e#634#643#0" expanded="false" />
-            <element signature="e#657#673#0" expanded="false" />
-            <element signature="e#680#708#0" expanded="false" />
-            <element signature="e#697#708#0" expanded="false" />
-            <element signature="e#733#745#0" expanded="false" />
-            <element signature="e#760#763#0" expanded="false" />
-            <element signature="e#780#784#0" expanded="false" />
-            <element signature="e#805#808#0" expanded="false" />
-            <element signature="e#865#884#0" expanded="false" />
-            <element signature="e#989#994#0" expanded="false" />
-            <element signature="e#1011#1015#0" expanded="false" />
-            <element signature="e#1036#1040#0" expanded="false" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/gp.cmd">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="161" lean-forward="false" selection-start-line="0" selection-start-column="155" selection-end-line="0" selection-end-column="161" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/web/composer.json">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -849,6 +814,95 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docker-compose.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="63" column="42" lean-forward="false" selection-start-line="63" selection-start-column="42" selection-end-line="63" selection-end-column="42" />
+          <folding>
+            <element signature="e#9#14#0" expanded="false" />
+            <element signature="e#27#361#0" expanded="false" />
+            <element signature="e#52#63#0" expanded="false" />
+            <element signature="e#80#82#0" expanded="false" />
+            <element signature="e#105#107#0" expanded="false" />
+            <element signature="e#121#143#0" expanded="false" />
+            <element signature="e#150#201#0" expanded="false" />
+            <element signature="e#169#201#0" expanded="false" />
+            <element signature="e#208#305#0" expanded="false" />
+            <element signature="e#250#254#0" expanded="false" />
+            <element signature="e#279#283#0" expanded="false" />
+            <element signature="e#298#305#0" expanded="false" />
+            <element signature="e#312#338#0" expanded="false" />
+            <element signature="e#329#338#0" expanded="false" />
+            <element signature="e#355#361#0" expanded="false" />
+            <element signature="e#364#559#0" expanded="false" />
+            <element signature="e#391#405#0" expanded="false" />
+            <element signature="e#428#433#0" expanded="false" />
+            <element signature="e#447#459#0" expanded="false" />
+            <element signature="e#475#526#0" expanded="false" />
+            <element signature="e#533#559#0" expanded="false" />
+            <element signature="e#550#559#0" expanded="false" />
+            <element signature="e#562#708#0" expanded="false" />
+            <element signature="e#593#611#0" expanded="false" />
+            <element signature="e#634#643#0" expanded="false" />
+            <element signature="e#657#673#0" expanded="false" />
+            <element signature="e#680#708#0" expanded="false" />
+            <element signature="e#697#708#0" expanded="false" />
+            <element signature="e#711#933#0" expanded="false" />
+            <element signature="e#733#745#0" expanded="false" />
+            <element signature="e#760#763#0" expanded="false" />
+            <element signature="e#780#784#0" expanded="false" />
+            <element signature="e#805#808#0" expanded="false" />
+            <element signature="e#820#843#0" expanded="false" />
+            <element signature="e#848#884#0" expanded="false" />
+            <element signature="e#865#884#0" expanded="false" />
+            <element signature="e#898#904#0" expanded="false" />
+            <element signature="e#909#933#0" expanded="false" />
+            <element signature="e#924#933#0" expanded="false" />
+            <element signature="e#960#974#0" expanded="false" />
+            <element signature="e#989#994#0" expanded="false" />
+            <element signature="e#1011#1015#0" expanded="false" />
+            <element signature="e#1036#1040#0" expanded="false" />
+            <element signature="e#1052#1077#0" expanded="false" />
+            <element signature="e#1091#1097#0" expanded="false" />
+            <element signature="e#1102#1192#0" expanded="false" />
+            <element signature="e#1119#1164#0" expanded="false" />
+            <element signature="e#1173#1192#0" expanded="false" />
+            <element signature="e#1197#1217#0" expanded="false" />
+            <element signature="e#1212#1217#0" expanded="false" />
+            <element signature="e#1222#1283#0" expanded="false" />
+            <element signature="e#1237#1240#0" expanded="false" />
+            <element signature="e#1249#1251#0" expanded="false" />
+            <element signature="e#1260#1265#0" expanded="false" />
+            <element signature="e#1274#1283#0" expanded="false" />
+            <element signature="e#1301#1314#0" expanded="false" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gp.cmd">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="161" lean-forward="false" selection-start-line="0" selection-start-column="155" selection-end-line="0" selection-end-column="161" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/origin.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="76">
+          <caret line="4" column="13" lean-forward="true" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/gp.sh">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="1" column="73" lean-forward="false" selection-start-line="1" selection-start-column="73" selection-end-line="1" selection-end-column="73" />
           <folding />
         </state>
       </provider>
